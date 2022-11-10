@@ -5,6 +5,6 @@ I'm a developer and founder based in ~~London, UK~~ Remote
 
 I'm particularly specialized in using Typescript, Angular, Rx, NestJS, Next.js and React.
 
-Check out my blog posts at https://giancarlobuomprisco.com
-
 I made https://makerkit.dev, a SaaS Starter for Next.js and Remix to ship your SaaS fast.
+
+Sometimes, I blog at https://giancarlobuomprisco.com
